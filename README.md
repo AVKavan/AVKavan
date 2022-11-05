@@ -1,3 +1,6 @@
+[![MasterHead](https://s4.gifyu.com/images/WEB-AND-APP.gif)](https://avkavan.io)
+
+
 
 <h1 align="center">Hey there , Kavan here!</h1>
 <h3 align="center">A student passionate about web and app development</h3>
