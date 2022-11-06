@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **avkavan@gmail.com**
 
-- ⚡ Fun fact **Guess what? I click amazing pics! checkout my insta page Karumbaiah_edits**
+- ⚡ Fun fact **Guess what? I click amazing pics! checkout my insta page <a href="https://instagram.com/karumbaiah_edits" target="blank">karumbaiah_edits</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
