@@ -1,4 +1,4 @@
-[![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-3de7e619ca.gif)](https://avkavan.io)
+[![MasterHead](https://s1.gifyu.com/images/github-master-head.gif)](https://avkavan.io)
 
 
 
