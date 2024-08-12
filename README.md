@@ -3,15 +3,15 @@
 
 
 <h1 align="center">Hey there , Kavan here!</h1>
-<h3 align="center">A student passionate about web and app development</h3>
+<h3 align="center">A student passionate about app development</h3>
 
 <img align="right" alt = "Developer" width = "250" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"/>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avkavan&label=Profile%20views&color=0e75b6&style=flat" alt="avkavan" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Angular and Flutter**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **avkavan@gmail.com**
 
